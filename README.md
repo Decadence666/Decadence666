@@ -3,10 +3,10 @@
 ### About Me
 
 - Computer Engineering student at Istanbul Aydın University
-- Most of the time I code in C#, sometimes Java.
-- I'm currently learning Unity library.
-- I'm currently working on Unity and actively developing my game.
-- I'm also trying to improve myself on Backend development with side projects.
+- Most of the time I code in C# and Python, sometimes Java.
+- I'm currently learning Python.
+- I'm currently working on a machine learning project.
+- I'm also trying to improve myself on backend development with side projects.
 - You can reach me at: enesdgnr666@gmail.com
 <!--
 **Decadence666/Decadence666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
